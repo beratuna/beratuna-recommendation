@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######`
+flask
+flask_restful
+pandas
+matplotlib
+apyori
