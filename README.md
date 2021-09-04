@@ -43,7 +43,7 @@ You could comment out that line.
 
 After reco.py competed generating the model, API will immediately become ready to serve. While the API is running, run example.py to see the sample which sends productids to API via request parameters in json format. API will return top ten recommended products with their scores.
 ```
-$ source <desired-path>/bin/activate
+$ python3 example.py
 ```
 Main Categories are as follows;
 
