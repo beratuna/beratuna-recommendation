@@ -1,0 +1,5 @@
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+bin/
+lib/
