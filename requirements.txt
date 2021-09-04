@@ -4,3 +4,4 @@ flask_restful
 pandas
 matplotlib
 apyori
+requires
